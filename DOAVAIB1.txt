@@ -1,0 +1,53 @@
+{
+            "Code": "359", ("Dr.Code")
+            "U_DName": "Abdulalim",(Dr.Name)
+            "U_DLname": "Osman",(Dr.Name)
+            "U_DType": null,
+            "U_FDate": "2018-04-04",(FromDate)
+            "U_TDate": "2018-04-10",(ToDate)
+            "U_Adate1": "2018-04-04",(Day-01)
+            "U_ADate2": "2018-04-05",(Day-02)
+            "U_Adate3": "2018-04-06",(Day-03)
+            "U_Adate4": "2018-04-07",(Day-04)
+            "U_Adate5": "2018-04-08",(Day-05)
+            "U_Adate6": "2018-04-09",(Day-06)
+            "U_Adate7": "2018-04-10",(Day-07)
+            "U_AFtime1": "10:00:00",(Day-01 From Time)
+            "U_AFtime2": "10:00:00",(Day-02 From Time)
+            "U_Aftime3": "10:00:00",(Day-03 From Time)
+            "U_AFtime4": "10:00:00",(Day-04 From Time)
+            "U_AFtime5": "10:00:00",(Day-05 From Time)
+            "U_AFtime6": "10:00:00",(Day-06 From Time)
+            "U_AFtime7": "10:00:00",(Day-07 From Time)
+            "U_ATtime1": "17:00:00",(Day-01 To Time)
+            "U_ATtime2": "17:00:00",(Day-02 To Time)
+            "U_ATtime3": "17:00:00",(Day-03 To Time)
+            "U_ATtime4": "17:00:00",(Day-04 To Time)
+            "U_ATtime5": "17:00:00",(Day-05 To Time)
+            "U_ATtime6": "17:00:00",(Day-06 To Time)
+            "U_ATtime7": "17:00:00",(Day-07 To Time)
+            "U_NFtime1": "01:00:00",
+            "U_NFtime2": null,
+            "U_NFtime3": null,
+            "U_NFtime4": null,
+            "U_NFtime5": null,
+            "U_NFtime6": null,
+            "U_NFtime7": null,
+            "U_NTtime1": "02:00:00",
+            "U_NTtime2": null,
+            "U_NTtime3": null,
+            "U_NTtime4": null,
+            "U_NTtime5": null,
+            "U_NTtime6": null,
+            "U_NTtime7": null,
+            "U_Arad": "2",
+            "U_NArad": null,
+            "U_Specilty": null,
+            "U_SDUR": null,(Slot Duration)
+            "U_Room": null,
+            "U_Special": null,(Specility)
+            "U_SDura": null,
+            "U_SCount": null,
+            "U_LCount": null,
+            "U_Option": null
+        }
